@@ -13,7 +13,7 @@ This Challenge assignment is designed to solidify and demonstrate my knowledge o
 
 
 <h2>Scenario</h2>
-In this assignment, I'm a Security Analyst at Credico Inc., a financial institution that offers checking, savings, and investment banking services. 
+I'm a Security Analyst at Credico Inc., a financial institution that offers checking, savings, and investment banking services. 
 
 - The company collects, processes, and maintains a large database of private financial information for both consumer and business accounts.
 - The data is maintained on a local server.
